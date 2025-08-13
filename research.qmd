@@ -1,0 +1,20 @@
+---
+title: "Current Research Projects"
+format: html
+---
+
+## Reward Tracking and Choice Consistency in People who use Methamphetamine
+
+People who use methamphetamine evaluate rewards differently and make choices that lead to fewer rewards on incentivized tasks compared to control groups. Evidence suggests that this may be linked to a more reactive choice strategy that fails to account for the larger context of previous outcomes. By manipulating and modeling the broader contexts in which such choices are made this study investigated how local reward context influence choice consistency, and alters activity in canonical reward striatal regions and beyond. Results showed local reward context did influence choice consistency, but previous losses in a reward scarce environment had no effect in people with problematic methamphetamine use experience. Additionally, despite moment-to-moment changes in local reward availability being significantly and positively correlated with BOLD signal fluctuations in striatal regions, findings did not reveal any significant difference between the groups. Finally, people with problematic methamphetamine use experience exhibited reduced reward tracking in several areas outside of striatum compared to the control group, including regions within the frontoparietal network. This evidence may indicate that striatal  updating signals remain intact in people who use methamphetamine, but is squandered by deficits in working memory ability.
+
+::: {#fig1 style="float: center; position; center: 1px; padding: 30px;"}
+![](/images/test.png){.about-image .rounded width="600" height="300" fig-align="center"}
+:::
+
+## Methamphetamine-related reductions in hippocampal volume vary by sex
+
+::: {#fig2 style="float: right; position; right: 1px; padding: 40px;"}
+![](/images/hillary_study.tiff){.about-image .rounded width="400" height="400"}
+:::
+
+As methamphetamine use rates continue to climb, understanding its relationship with physical, mental, and cognitive decline is critical. While memory difficulties are common, the underlying neurobiology of these deficits are not well understood. Preclinical work suggests that, at least among male subjects, methamphetamine exposure results in volume loss in the hippocampus, a critical brain region supporting memory outcomes. Human studies investigating the effect of methamphetamine use on hippocampal volume have been equivocal. These inconsistencies may relate to sex differences and varying degrees of use and abstinence in study samples. The current study evaluated hippocampal volume and associated hippocampal-dependent memory in a sex-balanced community sample of people with (N=90) and without (N=90) recent problematic methamphetamine-use experience. While group differences in hippocampal volumes were evident for male individuals with methamphetamine-use experience compared to a methamphetamine-naïve control group, no such differences were evident for females. However, hippocampal-dependent memory performance (i.e., delayed verbal recall performance) was impaired for both male and female individuals with methamphetamine-use experience and both hippocampal volume and methamphetamine-use experience explained unique and significant variance in memory performance. These findings highlight the importance of considering sex-differences in methamphetamine-focused research with clear implications for evaluating markers of treatment program efficacy.

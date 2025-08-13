@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Robert J. Roy"
+  navbar:
+    style: "docked"
+    search: TRUE
+    collapse-level: 3
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - research.qmd
+      
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

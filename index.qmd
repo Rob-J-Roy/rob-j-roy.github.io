@@ -1,0 +1,39 @@
+---
+title: "Robert J. Roy"
+about: 
+  template: solana
+  links:
+    - text: "{{< iconify simple-icons:bluesky >}} Bluesky"
+      href: https://bsky.app/profile/robjroy.bsky.social
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=wEIrl78AAAAJ&hl=en&oi=ao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/robert~roy/
+    - icon: envelope
+      text: Email
+      href: mailto:rroy4@huskers.unl.edu
+    - icon: file-text
+      text: CV
+      href: ./documents/rr_cv_20250714.pdf
+---
+
+::: {style="float: right; position; right: 20px; padding: 10px;"}
+
+  
+![](./images/headshot.jpg){.about-image .rounded width=350" height="500"}
+:::
+
+
+
+I am a graduate student in the NeuroCognitive Translation Lab under the supervision of [Dr. Nicholas Hubbard](https://nctlab.unl.edu/people/), and recipient of the Othmer Fellowwhip at the Univeristy of Nebraska-Lincoln. My research leverages elements from neuroimaging, date science, and psychology to create statistical models that help me understand how neuro-cognitive mechanisms are altered by methamphetamine use.
+
+To achieve my research goals I use a variety of software (e.g. REDCap, Excel) and programming languages (e.g. R, Bash) to create data sets that combine behavioral, cognitive, and neuroimaging data. I then use these data to create multilevel models that predict behavior such as decision making or reaction time. My hope is that by better understanding how people who use methamphetamine make decisions we can optimize treatment for addiction.    
+
+As a first generation colllege student and former english major, I'm also very interested in translating scientific knowlege for the lay public.
+
+
+
+
+
