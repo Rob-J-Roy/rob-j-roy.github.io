@@ -27,11 +27,11 @@ about:
 
 
 
-I am a graduate student in the NeuroCognitive Translation Lab under the supervision of [Dr. Nicholas Hubbard](https://nctlab.unl.edu/people/), and recipient of the Othmer Fellowwhip at the Univeristy of Nebraska-Lincoln. My research leverages elements from neuroimaging, date science, and psychology to create statistical models that help me understand how neuro-cognitive mechanisms are altered by methamphetamine use.
+I am a graduate student in the NeuroCognitive Translation Lab under the supervision of [Dr. Nicholas Hubbard](https://nctlab.unl.edu/people/), and recipient of the Othmer Fellowship at the University of Nebraska-Lincoln. My research leverages elements from neuroimaging, data science, and psychology to create statistical models that help me understand how neuro-cognitive mechanisms are altered by methamphetamine use.
 
 To achieve my research goals I use a variety of software (e.g. REDCap, Excel) and programming languages (e.g. R, Bash) to create data sets that combine behavioral, cognitive, and neuroimaging data. I then use these data to create multilevel models that predict behavior such as decision making or reaction time. My hope is that by better understanding how people who use methamphetamine make decisions we can optimize treatment for addiction.    
 
-As a first generation colllege student and former english major, I'm also very interested in translating scientific knowlege for the lay public.
+As a first generation college student and former English major, I'm also very interested in translating scientific knowledge for the lay public.
 
 
 
