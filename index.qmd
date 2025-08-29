@@ -16,7 +16,7 @@ about:
       href: mailto:rroy4@huskers.unl.edu
     - icon: file-text
       text: CV
-      href: ./documents/rr_cv_20250714.pdf
+      href: ./documents/rr_cv_current.pdf
 ---
 
 ::: {style="float: right; position; right: 20px; padding: 10px;"}
