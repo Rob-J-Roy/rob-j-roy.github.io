@@ -3,11 +3,10 @@ title: "Current Research Projects"
 format: html
 ---
 
-## Reward Tracking and Choice Consistency in People who use Methamphetamine
+## Methamphetamine use and the Extended amygdala
 
-People who use methamphetamine evaluate rewards differently and make choices that lead to fewer rewards on incentivized tasks compared to control groups. Evidence suggests that this may be linked to a more reactive choice strategy that fails to account for the larger context of previous outcomes. By manipulating and modeling the broader contexts in which such choices are made this study investigated how local reward context influence choice consistency, and alters activity in canonical reward striatal regions and beyond. Results showed local reward context did influence choice consistency, but previous losses in a reward scarce environment had no effect in people with problematic methamphetamine use experience. Additionally, despite moment-to-moment changes in local reward availability being significantly and positively correlated with BOLD signal fluctuations in striatal regions, findings did not reveal any significant difference between the groups. Finally, people with problematic methamphetamine use experience exhibited reduced reward tracking in several areas outside of striatum compared to the control group, including regions within the frontoparietal network. This evidence may indicate that striatal  updating signals remain intact in people who use methamphetamine, but is squandered by deficits in working memory ability.
+This next phase of my research is exploring how methamphetamine use impacts the extended amygdala. Building from the imbalance model of addiction proposed by Koob and Volkow (2010), the extended amygdala underpins much of the withdrawal phase, particularly the negative affect associated with it. The theory further posits that this negative affect becomes the primary motivator for substance use as the severity of a substance use disorder increases. Despite this, most neuroimagaing research in people who use methamphetamine have focused on the nucleus accumbens and prefrontal cortex. In a series of studies that I am planning I will explore how methamphetamine use impacts the volume and function of extended amygdala regions as well as the amygdalar-hippocampal circuit which supports memory encoding.
 
-::: {#fig1 style="float: center; position; center: 1px; padding: 30px;"}
-![](/images/test.png){.about-image .rounded width="600" height="300" fig-align="center"}
-:::
+## Methamphetamine use and Trauma
 
+This avenue of research attempts to expand our understand of how previos trauma impacts methamphetamine use.
